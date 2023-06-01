@@ -1,0 +1,2 @@
+Token= NTgzMDk0MTUwMjEyMDkxOTI1.GAgmeY.EirIkbJuI3rBHsJ3VA2RwNjKGENtEK0ImCGqkA
+url de invitacion: https://discord.com/api/oauth2/authorize?client_id=583094150212091925&permissions=412318419008&scope=bot
